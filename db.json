@@ -3,7 +3,8 @@
     {
       "id": 1,
       "title": "first task",
-      "projectid": 1
+      "projectid": 1,
+      "taskstatus": "Open"
     }
   ]
 }
